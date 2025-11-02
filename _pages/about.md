@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: " "
-seo_title: "Kevin Ren"
+seo_title: "Ludovica Mosillo"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,9 +10,10 @@ redirect_from:
 
 Welcome! <br>
 
-I am a sixth-year Ph.D. Finance candidate at the Kellogg School of Management at Northwestern University. I am on the 2025/2026 academic job market. 
+I am a sixth-year Ph.D. candidate in Economics at Northwestern University.
+My research focuses on development economics and energy economics, with particular interest in how resource scarcity and energy access affect economic inequality in developing countries.
 
-My research is broadly within financial economics and macroeconomics with a focus on topics in macro-finance, asset pricing, and firm dynamics.  
+I am on the 2025/2026 job market. 
 
 [Download CV (PDF)](/files/cv.pdf){: .btn--generalbutton target="_blank"}
 
@@ -56,4 +57,5 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. 
+-->
