@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<h1 style="color: #0066cc; font-size: 2.0em; margin-bottom: 20px;">Ludovica Mosillo</h1>
+<h1 style="color: #0066cc; font-size: 2.0em; margin-bottom: 50px;">Ludovica Mosillo</h1>
 
 
 Welcome! <br>
