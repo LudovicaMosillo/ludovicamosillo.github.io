@@ -17,6 +17,6 @@ My research focuses on development economics and energy economics, with particul
 
 I am on the 2025/2026 job market. 
 
-**Email:** ludovicamosillo@u.northwestern.edu
-
 [Download CV (PDF)](/files/CV_MosilloLudovica.pdf){: .btn--generalbutton target="_blank"}
+
+**Email:** ludovicamosillo@u.northwestern.edu
