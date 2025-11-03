@@ -1,0 +1,18 @@
+<!-- _includes/paper_entry.html -->
+<div class="paper-entry" style="margin-bottom: 1.5em;">
+  <p style="margin-bottom: 0.25em;">
+    <span style="color:#4682B4; font-weight:bold !important;">{{ include.title }}</span><br>
+    {% if include.coauthors %}
+      with {{ include.coauthors }}<br>
+    {% endif %}
+    {% if include.status %}
+      <em>{{ include.status }}</em><br>
+    {% endif %}
+  </p>
+
+  {% if include.abstract %}
+    <p style="margin-top: 0.5em;">{{ include.abstract }}</p>
+  {% endif %}
+
+  <p><strong>[Draft available upon request]</strong></p>
+</div>
