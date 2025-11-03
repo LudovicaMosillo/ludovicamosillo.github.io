@@ -88,9 +88,9 @@
   img {
     width: 100%;  /* Scale with the container */
     height: auto; /* Maintain aspect ratio */
-    max-width: 300px; /* Keep a maximum size */
-    max-height: 350px; /* Optional: keep a maximum height */
-    border-radius: 10px;
+    max-width: 360px; /* Keep a maximum size */
+    max-height: 420px; /* Optional: keep a maximum height */
+    border-radius: 20px;
     object-fit: cover;
 
     @include breakpoint($large) {
