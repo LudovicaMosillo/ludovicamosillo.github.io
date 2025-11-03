@@ -9,7 +9,7 @@
     {% if include.draft %}
       <a href="{{ include.draft }}" class="btn--generalbutton" target="_blank">Draft</a><br>
     {% elsif include.draft_text %}
-      {{ include.draft_text }}<br>
+      [{{ include.draft_text }}]<br>
     {% endif %}
 
     {% if include.status %}
