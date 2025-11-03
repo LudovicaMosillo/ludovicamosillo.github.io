@@ -14,5 +14,11 @@
     <p style="margin-top: 0.5em;">{{ include.abstract }}</p>
   {% endif %}
 
-  <p><strong>[Draft available upon request]</strong></p>
+  <p>
+    {% if include.draft %}
+      <a href="{{ include.draft }}" class="btn--generalbutton" target="_blank">Draft</a>
+    {% else %}
+      <strong>[Draft available upon request]</strong>
+    {% endif %}
+  </p>
 </div>
