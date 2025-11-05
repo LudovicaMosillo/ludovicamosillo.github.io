@@ -27,7 +27,7 @@ author_profile: true
 
 ### Northwestern University, School of Education and Social Policy
 
-**Teaching Assistant** (2021-2022)
+**Teaching Assistant** (2023)
 * Economics of Education Policy, Undergraduate  
   *Professor Malamud*
 
