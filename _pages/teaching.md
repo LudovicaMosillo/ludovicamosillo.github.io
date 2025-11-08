@@ -7,7 +7,7 @@ author_profile: true
 
 ## Teaching Experience
 
-### Kellogg School of Management, Northwestern University
+### <span style="color: #4682B4;">Kellogg School of Management, Northwestern University</span>
 
 **Teaching Assistant** (2023-2024)
 * Statistical Decision Analysis, Executive MBA  
@@ -16,7 +16,7 @@ author_profile: true
 * Big Data Advanced Analytics Workshop, MBA  
   *Professor Nancy Qian*
 
-### Northwestern University, Department of Economics
+### <span style="color: #4682B4;">Northwestern University, Department of Economics</span>
 
 **Teaching Assistant** (2021-2022)
 * Introduction to Microeconomics, Undergraduate  
@@ -25,7 +25,7 @@ author_profile: true
 * Economics of State and Local Governments, Undergraduate  
   *Professor Vannutelli*
 
-### Northwestern University, School of Education and Social Policy
+### <span style="color: #4682B4;">Northwestern University, School of Education and Social Policy</span>
 
 **Teaching Assistant** (2023)
 * Economics of Education Policy, Undergraduate  
