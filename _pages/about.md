@@ -12,10 +12,8 @@ redirect_from:
 
 Welcome! <br>
 
-I am a sixth-year Ph.D. candidate in Economics at Northwestern University.
-My research focuses on development economics and energy economics, with particular interest in how resource scarcity and energy access affect economic inequality in developing countries.
+I am an economist at the Inter-American Development Bank, working  in the Knwoledge Team of the Water and Sanitation Division. My research focuses on infrastructure and development economics, with particular interest in how resource scarcity affects economic inequality in developing countries. Before joining the IDB, I completed my Ph.D. at Northwestern University. 
 
-I am on the 2025/2026 job market. 
 
 [Download CV (PDF)](/files/CV_MosilloLudovica.pdf){: .btn--generalbutton target="_blank"}
 
